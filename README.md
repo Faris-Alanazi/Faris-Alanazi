@@ -8,8 +8,5 @@
   
   Data Analyst 🧐
   
-  Full Stack Mobile Developer 📱
-  
-  Full Stack Web Developer 🕸️
 
 
