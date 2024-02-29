@@ -1,5 +1,1 @@
-  Hi there 👋 i'm Faris
-
-  
-
-
+Hi there 👋
